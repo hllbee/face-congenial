@@ -9,8 +9,8 @@
 <li>Option 4: Add new user.</li>
 <li>Option 5: Remove a pre-existing user.</li>
 <li>Option 6: Quit.</li> 
-   <h1 align = "center">Here are some information about AlphaVision.</h1>
-  <p>Face Congenial is powered by face_recgnition and cv2 modules. It's currently working perfectly on Python 2.7.14.</p>
+   <h1 align = "center">Here are some information about Face Congenial.</h1>
+  <p>Face Congenial is powered by face_recognition and cv2 modules. It's currently working perfectly on Python 2.7.14.</p>
     <br>
     <h2>What does the options do?</h2>
   <h3>Option 1</h3>
